@@ -1,0 +1,5 @@
+.label{
+  border: 1px solid firebrick;
+  padding: 5px 10px;
+  text-transform: uppercase;
+}
